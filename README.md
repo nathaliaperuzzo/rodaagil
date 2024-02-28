@@ -1,9 +1,3 @@
-# Thalamus - Roda Ágil
+Notei que no menu esquerdo, os títulos Valor, Pessoas, Experimente e Segurança não correspondem aos itens. Como ajustá-los?
 
-Microsistema Roda Ágil para auxiliar na avaliação de agilidade de uma equipe de desenvolvimento.
-
-Sistema disponível em: [https://rodaagil.agile.thalamus.digital/](https://thalamus.digital/)
-
-Esta ferramenta foi construida com base na Roda Ágil da autora Ana G Soares.
-
-![Roda Ágil](./src/imgs/os_image.png)
+![image](https://github.com/Piemontez/rodaagil/assets/161636914/0fc306ef-8f56-4cc3-b693-d434aef402cf)
